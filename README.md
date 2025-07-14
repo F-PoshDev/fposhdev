@@ -22,6 +22,6 @@ X (Twitter): [@funshycrazy](https://x.com/funshycrazy)
 Email: fposhdev@gmail.com  
 Portfolio: [portfolio-chainspace.vercel.app](https://portfolio-chainspace.vercel.app)
 
----
+
 
 ### "This isn’t just coding to me — it’s legacy in the making."
